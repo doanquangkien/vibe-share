@@ -4,7 +4,7 @@
 # ============================================================
 # CELL 1: Cài đặt môi trường (~2 phút)
 # ============================================================
-!apt-get update -qq && apt-get install -y ffmpeg 2>&1 | tail -2
+!apt-get update -qq && apt-get install -y ffmpeg libatk-bridge2.0-0 libatk1.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 libpango-1.0-0 libcairo2 libasound2 libnss3 libnspr4 2>&1 | tail -3
 !curl -fsSL https://deb.nodesource.com/setup_22.x | sudo -E bash - 2>&1 | tail -2
 !apt-get install -y nodejs 2>&1 | tail -2
 !node --version && npm --version
