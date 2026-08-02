@@ -1,0 +1,12 @@
+{
+  "anchors": {
+    "t2": ["Anh sẵn sàng share", "sẵn sàng share", "sử dụng không giới hạn"],
+    "t3": ["Anh biết cảm giác", "biết cảm giác", "bị báo giới hạn"],
+    "t4": ["Chỉ cần nhập văn bản", "Chỉ cần nhập", "vài giây là có file"],
+    "t5": ["Không cần nạp xu", "không cần mở ví"],
+    "t6": ["Anh chỉ mong", "chỉ mong mấy con vợ", "giới thiệu thêm bạn bè"],
+    "t7": ["Nếu một ngày nào đó", "một ngày nào đó", "server vẫn chưa sập"],
+    "t8": ["Link anh để ngay", "Link anh để", "dưới phần bình luận"],
+    "t9": ["Nếu dùng xong", "nhớ thả cho anh", "quay lại chửi anh"]
+  }
+}
